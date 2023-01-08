@@ -47,4 +47,4 @@ app.post('/', async(req, res)=>{
     }
 })
 
-app.listen(5000, ()=>console.log('Server is running on https://open-ai-gpt.onrender.com'));
+app.listen(5000, ()=>console.log('Server is running on https://cbsgpt.onrender.com'));
